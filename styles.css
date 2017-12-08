@@ -1,17 +1,19 @@
 body{
-  background-color: #6DBDD6;
   margin: 0px;
 }
 
+
+/** Below is for the Navigation Menu **/
 .headerCont{
   width: 100%;
 }
+
 .header{
   color: white;
   width: 25%;
   float: left;
   text-align: center;
-  background-color: gray;
+  background-color: #000e44;
   padding: 20px;
   box-sizing: border-box;
   border: 1px solid black;
@@ -20,4 +22,11 @@ body{
 
 .header:hover{
   background-color: black;
+}
+
+/** Below is for the Home Page **/
+.homeBody{
+	padding: 5%;
+	font-family: "Times New Roman", Times, serif;
+	margin-top:3%;
 }
