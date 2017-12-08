@@ -1,0 +1,23 @@
+body{
+  background-color: #6DBDD6;
+  margin: 0px;
+}
+
+.headerCont{
+  width: 100%;
+}
+.header{
+  color: white;
+  width: 20%;
+  float: left;
+  text-align: center;
+  background-color: gray;
+  padding: 20px;
+  box-sizing: border-box;
+  border: 1px solid black;
+  text-decoration: none;
+}
+
+.header:hover{
+  background-color: black;
+}
