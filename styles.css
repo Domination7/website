@@ -80,6 +80,7 @@ body{
 }
 
 .topic{
+	margin-top: 4%;
 	font-size:20px;
 	font-style:italic;
 	margin-left:2%;
@@ -99,4 +100,5 @@ body{
 	text-align:center;
 	padding:16px;
 	font-size:30px;
+	color: #d6ba8a;
 }
