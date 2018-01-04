@@ -54,8 +54,7 @@ body{
   display: block;
   padding: 12px;
   text-align: left;
-
-  border: 2px dashed black;
+  border: 2px solid black;
   box-sizing: border-box;
 }
 
@@ -64,7 +63,7 @@ body{
 }
 
 .headerCont a:hover, .dropDown:hover .dropButton{
-  background-color: black;
+  background-color: grey;
 }
 
 .dropDown:hover a:hover{
@@ -101,4 +100,16 @@ body{
 	padding:16px;
 	font-size:30px;
 	color: #d6ba8a;
+}
+
+/* Below is for Footer Formatting */
+footer{
+	margin-top: 5%;
+	margin-left: 10%;
+	margin-right: 10%;
+	border-top: 2px solid #000e44;
+}
+.footImg{
+	padding: 20px;
+	width: 50px;
 }
