@@ -10,3 +10,6 @@ To-Do:
   - Ensure correct pictures and names are used
   - Fill in information about the awards
   - Put links to origninal pages
+
+Images:
+  All social media logos are from the respective organizations official resource download. The logos also meet all requirements given on the resource download.
