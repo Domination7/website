@@ -1,5 +1,10 @@
 body{
   margin: 0px;
+
+  background-image: url("bpaLogo.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 
@@ -7,14 +12,14 @@ body{
 .headerCont{
   overflow: hidden;
   font-size: 20px;
-  background-color: #000e44;
+  background-color: rgb(0%,5.5%,26.7%);
 }
 
 .headerCont a{
   color: white;
   float: left;
   text-align: center;
-  background-color: #000e44;
+  background-color: rgb(0%,5.5%,26.7%);
   padding: 20px;
   box-sizing: border-box;
   text-decoration: none;
@@ -83,7 +88,7 @@ body{
 	font-size:20px;
 	font-style:italic;
 	margin-left:2%;
-	background-color:#d6ba8a;
+	background-color: rgb(83.9%,72.9%,54.1%);
 	padding:5px;
 	width: 30%;
 }
@@ -93,13 +98,13 @@ body{
 }
 
 .form{
-	background-color:#cc304f;
+	background-color: rgb(80%,18.8%,31%);
 	text-decoration:none;
 	display:block;
 	text-align:center;
 	padding:16px;
 	font-size:30px;
-	color: #d6ba8a;
+	color: rgb(83.9%,72.9%,54.1%);
 }
 
 /* Below is for Footer Formatting */
@@ -107,7 +112,7 @@ footer{
 	margin-top: 5%;
 	margin-left: 10%;
 	margin-right: 10%;
-	border-top: 2px solid #000e44;
+	border-top: 2px solid rgb(0%,5.5%,26.7%);
 }
 .footerTable{
   display: block;
