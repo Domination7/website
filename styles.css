@@ -48,7 +48,7 @@ body{
   position: absolute;
   width: 350px;
   z-index: 1;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,10);
+  box-shadow: 0px 3px 12px 0px rgba(0,0,0,10);
 }
 
 .dropInfo a{
@@ -59,7 +59,7 @@ body{
   display: block;
   padding: 12px;
   text-align: left;
-  border: 2px solid black;
+  border: 1px solid black;
   box-sizing: border-box;
 }
 
@@ -81,6 +81,17 @@ body{
     text-align: center;
     font-size: 36px;
     padding: 30px;
+}
+
+.indexTitle{
+  font-size: 24px;
+  margin-left: 275px;
+}
+
+.indexBody{
+  font-size: 16px;
+  margin-left: 275px;
+  margin-right: 10%;
 }
 
 .homeBody{
@@ -115,6 +126,10 @@ body{
 	color: rgb(83.9%,72.9%,54.1%);
 }
 
+.form:hover{
+  color: rgb(0%,5.5%,26.7%);
+}
+
 /* Below is for Footer Formatting */
 footer{
 	margin-top: 5%;
@@ -135,4 +150,10 @@ footer{
   margin: auto;
 	padding: 20px;
 	width: 64px;
+}
+
+/* Below is for Extra Formatting */
+.twitterExtra{
+  margin-left: 25px;
+  float:left;
 }
