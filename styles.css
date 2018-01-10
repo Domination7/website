@@ -48,7 +48,7 @@ body{
   position: absolute;
   width: 350px;
   z-index: 1;
-  box-shadow: 0px 3px 12px 0px rgba(0,0,0,10);
+  box-shadow: 0px 2px 8px 0px rgba(0,0,0,10);
 }
 
 .dropInfo a{
@@ -59,7 +59,9 @@ body{
   display: block;
   padding: 12px;
   text-align: left;
-  border: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
   box-sizing: border-box;
 }
 
@@ -207,8 +209,8 @@ footer{
 .footImg{
   display: block;
   margin: auto;
-	padding: 20px;
-	width: 64px;
+  padding: 20px;
+  width: 64px;
 }
 
 /* Below is for Extra Formatting */
