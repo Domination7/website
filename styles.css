@@ -104,7 +104,7 @@ body{
   box-shadow: 0px 3px 12px 0px rgba(0,0,0,10);
 }
 
-.dropInfo2 a{
+.dropInfo2 a{	
   background-color: #cc304f;
   float: none;
   color: white;
@@ -112,7 +112,9 @@ body{
   display: block;
   padding: 12px;
   text-align: left;
-  border: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
   box-sizing: border-box;
 }
 
