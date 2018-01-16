@@ -161,12 +161,8 @@ body{
 	font-size:20px;
 	font-style:italic;
 	margin-left:2%;
-	/*background-color: rgb(83.9%,72.9%,54.1%); Fixed with span below  */
-	/*width: 30%;  This would cause issues on mobile*/
 }
 
-/*Put this around text that needs backround of that weird gold colour,
-fixes ^ issue*/
 span {
   background-color: rgb(83.9%,72.9%,54.1%);
   padding-left: 7px;
@@ -174,6 +170,7 @@ span {
   padding-top: 4px;
   padding-bottom: 4px;
 }
+
 .requirements{
 	margin-left:5%;
   margin-right:5%;
