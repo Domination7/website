@@ -193,17 +193,6 @@ span {
   color: rgb(0%,5.5%,26.7%);
 }
 
-/* blank form */
-.formE{
-	background-color: rgb(80%,18.8%,31%);
-	text-decoration:none;
-	display:block;
-	text-align:center;
-	padding: 14px;
-	font-size:30px;
-	color: rgb(83.9%,72.9%,54.1%);
-}
-
 /* Below is for Footer Formatting */
 footer{
 	margin-top: 5%;
