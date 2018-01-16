@@ -231,3 +231,14 @@ footer{
   margin-left: 25px;
   float:left;
 }
+
+.logoCont{
+  background-color:rgb(80%,18.8%,31%);
+}
+
+.logoTop{
+  display:block;
+  margin:auto;
+  width:20%;
+  padding:20px;
+}
